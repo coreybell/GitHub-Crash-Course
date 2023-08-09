@@ -1,6 +1,6 @@
 # GitHub-Crash-Course
-Test repo for pipelines
+#Test repo for pipelines
 
-This file is strictly for updating me on how to do the set up for git
+#This file is strictly for updating me on how to do the set up for git
 
-This is to see if my readme updates
+#This is to see if my readme updates
